@@ -1,0 +1,14 @@
+.skills-logos {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.skills-logo {
+  margin: 0 15px;
+}
+
+.skills-logo img {
+  height: 60px;
+  width: auto;
+}
