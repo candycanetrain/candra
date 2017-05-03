@@ -2,6 +2,8 @@
   display: flex;
   justify-content: center;
   list-style: none;
+  flex-wrap: wrap;
+  width: 650px;
 }
 
 .skills-logo {
@@ -11,4 +13,8 @@
 .skills-logo img {
   height: 60px;
   width: auto;
+}
+
+.skills-logo h3 {
+  text-transform: none;
 }
