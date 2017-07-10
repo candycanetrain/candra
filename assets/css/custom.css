@@ -18,3 +18,14 @@
 .skills-logo h3 {
   text-transform: none;
 }
+
+.project-image img{
+  height: 700px;
+  width: auto;
+  display: block;
+}
+
+.project-header-mario {
+  background-image: url("mariopaint.png");
+  margin-bottom: 0em;
+}
