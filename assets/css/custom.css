@@ -31,9 +31,11 @@
 }
 
 .video-container {
-
+	display: flex;
+	align-items: center;
 }
 
 .project-video {
-
+	width: 71%;
+	margin: auto;
 }
