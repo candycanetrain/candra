@@ -39,3 +39,32 @@
 	width: 71%;
 	margin: auto;
 }
+
+.candra-intro-div {
+	color: black;
+}
+
+#one {
+	background-color: #4aa8cc;
+}
+
+#two {
+	background-color: #72c5ff;
+}
+
+#three {
+	background-color: #73e8c7;
+}
+
+#footer {
+	color: black;
+}
+
+#footer .inner {
+	color: black;
+}
+
+#footer h2, a, ul, p {
+	color: black;
+}
+
