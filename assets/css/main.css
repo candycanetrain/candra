@@ -3408,11 +3408,11 @@
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;
+				/*box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;*/
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;
+				/*box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;*/
 			}
 
 		.wrapper.style3 {
@@ -3424,11 +3424,11 @@
 			}
 
 			.wrapper.style3:before {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				/*box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;*/
 			}
 
 			.wrapper.style3:after {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				/*box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;*/
 			}
 
 		.wrapper.style4 {
@@ -3440,11 +3440,11 @@
 			}
 
 			.wrapper.style4:before {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				/*box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;*/
 			}
 
 			.wrapper.style4:after {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				/*box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;*/
 			}
 
 		.wrapper.style5 {
@@ -3456,11 +3456,11 @@
 			}
 
 			.wrapper.style5:before {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				/*box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;*/
 			}
 
 			.wrapper.style5:after {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				/*box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;*/
 			}
 
 		.wrapper.style6 {
@@ -3472,11 +3472,11 @@
 			}
 
 			.wrapper.style6:before {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				/*box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;*/
 			}
 
 			.wrapper.style6:after {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				/*box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;*/
 			}
 
 		.wrapper.spotlight {
@@ -3549,11 +3549,11 @@
 				}
 
 				.wrapper.spotlight.style2:before {
-					box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+					/*box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;*/
 				}
 
 				.wrapper.spotlight.style2:after {
-					box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+					/*box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;*/
 				}
 
 			.wrapper.spotlight.style3 {
@@ -3565,11 +3565,11 @@
 				}
 
 				.wrapper.spotlight.style3:before {
-					box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;
+					/*box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;*/
 				}
 
 				.wrapper.spotlight.style3:after {
-					box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;
+					/*box-shadow: inset 0 -1px 0 0 #3f4e85, 0 1px 0 0 #3f4e85;*/
 				}
 
 			.wrapper.spotlight.style4 {
@@ -3581,11 +3581,11 @@
 				}
 
 				.wrapper.spotlight.style4:before {
-					box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;
+					/*box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;*/
 				}
 
 				.wrapper.spotlight.style4:after {
-					box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;
+					/*box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;*/
 				}
 
 			.wrapper.spotlight.style5 {
@@ -3597,11 +3597,11 @@
 				}
 
 				.wrapper.spotlight.style5:before {
-					box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+					/*box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;*/
 				}
 
 				.wrapper.spotlight.style5:after {
-					box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+					/*box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;*/
 				}
 
 			.wrapper.spotlight.style6 {
