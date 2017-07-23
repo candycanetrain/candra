@@ -3352,7 +3352,7 @@
 		}
 
 		.wrapper:after {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			/*box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;*/
 		}
 
 		.wrapper:before, .wrapper:after {
@@ -3492,7 +3492,7 @@
 			}
 
 			.wrapper.spotlight:after {
-				box-shadow: inset 0 -1px 0 0 #4c5c96, 0 1px 0 0 #4c5c96;
+				/*box-shadow: inset 0 -1px 0 0 #4c5c96, 0 1px 0 0 #4c5c96;*/
 			}
 
 			.wrapper.spotlight .inner {
