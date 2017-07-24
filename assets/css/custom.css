@@ -162,3 +162,28 @@
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 }
+
+#header nav a.display-menu {
+	display: none;
+}
+
+@media screen and (max-width: 980px) {
+
+	#header nav a {
+		display: none;
+	}
+
+	#header nav a.resume {
+		display: inline-block;
+	}
+	#header nav a.display-menu {
+		display: inline-block;
+	}
+
+}
+
+@media screen and (max-width: 470px) {
+	ul.contact {
+		font-size: 18px;
+	}
+}
