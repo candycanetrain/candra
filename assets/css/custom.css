@@ -46,14 +46,23 @@
 
 #one {
 	background-color: #4aa8cc;
+	border: solid 1px #4aa8cc;
 }
 
 #two {
 	background-color: #72c5ff;
+	border: solid 1px #72c5ff;
+	
 }
 
 #three {
 	background-color: #73e8c7;
+	border: solid 1px #73e8c7;
+}
+
+#four {
+	background-color: #e4a6a6;
+	border: solid 1px #e4a6a6;
 }
 
 #footer {
