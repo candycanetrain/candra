@@ -1703,7 +1703,8 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff !important;
+			color: #ffffff; 
+			/*!important;*/
 		}
 
 		a.special:not(.button) {
@@ -2872,10 +2873,12 @@
 
 					#header nav a[href="#menu"]:hover {
 						background-color: rgba(255, 255, 255, 0.025);
+						color: black;
 					}
 
 					#header nav a[href="#menu"]:active {
 						background-color: rgba(255, 255, 255, 0.075);
+						color: black;
 					}
 
 		#header.alt {
