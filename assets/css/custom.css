@@ -120,3 +120,7 @@
   transition: width 350ms ease-in-out;
   width: 100%;
 }
+
+#white-bg:hover {
+	color: grey;
+}
