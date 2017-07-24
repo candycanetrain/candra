@@ -3002,7 +3002,7 @@
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #4c5c96;
+			background: #4aa8cc;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3058,7 +3058,7 @@
 				}
 
 					#menu .links li a:hover {
-						background: #45558d;
+						background: #71c3e2;
 					}
 
 		@media screen and (max-width: 736px) {
